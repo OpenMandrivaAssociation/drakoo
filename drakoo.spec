@@ -3,7 +3,7 @@
 
 Summary:  A file format wizard for OpenOffice.org
 Name:     drakoo
-Version:  0.9
+Version:  0.10
 Release:  %mkrel 1
 # get the source from our cvs repository (see
 # http://www.linuxmandrake.com/en/cvs.php3)
