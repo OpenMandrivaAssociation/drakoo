@@ -15,6 +15,7 @@ BuildArch: noarch
 BuildRequires: gettext 
 BuildRequires: perl-MDK-Common-devel
 Requires: drakxtools > 10-56mdk
+BuildRoot: %_tmppath/%name-%version-buildroot
 
 %description
 This wizard is run on first run of OpenOffice.org and enables to
