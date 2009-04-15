@@ -3,7 +3,7 @@
 
 Summary:  A file format wizard for OpenOffice.org
 Name:     drakoo
-Version:  0.13.1
+Version:  0.13.2
 Release:  %mkrel 1
 # get the source from our SVN repository (see
 # http://svn.mandriva.com/)
