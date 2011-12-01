@@ -29,14 +29,14 @@ Microsoft(R) Office).
 perl -pi -e 's/^use strict/#use strict/g' drakoo
 
 %install
-rm -fr $RPM_BUILD_ROOT
+rm -fr %{buildroot}
 %makeinstall_std
 
 %find_lang %name
 
 
 %clean
-rm -rf $RPM_BUILD_ROOT
+rm -rf %{buildroot}
 
 %files -f %{name}.lang
 %defattr(-,root,root)
