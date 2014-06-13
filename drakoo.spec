@@ -1,7 +1,7 @@
 Summary:	A file format wizard for OpenOffice.org
 Name:		drakoo
 Version:	0.13.2
-Release:	9
+Release:	10
 License:	GPLv2
 Group:		Office
 Url:		http://www.mandrivalinux.com/en/cvs.php3
