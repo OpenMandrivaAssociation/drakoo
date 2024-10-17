@@ -4,7 +4,7 @@ Version:	0.13.2
 Release:	13
 License:	GPLv2
 Group:		Office
-Url:		http://www.mandrivalinux.com/en/cvs.php3
+Url:		https://www.mandrivalinux.com/en/cvs.php3
 # get the source from our SVN repository (see
 # http://svn.mandriva.com/)
 Source0:	%{name}-%{version}.tar.bz2
